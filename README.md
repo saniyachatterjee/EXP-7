@@ -302,7 +302,7 @@ int main()
 ~~~
 # Output:
 
-<img width="568" alt="image" src="https://github.com/user-attachments/assets/f548168a-bf1b-4037-a603-67697267c81e">
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/cb88949d-2502-43ad-b663-2ee57f4fb53d">
 
 # 10. String Palindrome: 
 ~~~
@@ -344,7 +344,7 @@ int main()
 ~~~
 # Output:
 
-<img width="531" alt="image" src="https://github.com/user-attachments/assets/2823aacf-bc30-413f-b4c9-20dc53bf1202">
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/38a80f54-0e76-42f8-a4f5-1b6299e3a9de">
 
 # Conclusion:
 Mastering arrays and strings in C++ is crucial for efficient data manipulation. Arrays allow you to store elements of the same type in contiguous memory locations, making data management straightforward. Strings, which handle sequences of characters, can be managed using either C-strings or the more versatile std::string class from the Standard Library. While std::string offers more functionality and ease of use, understanding C-strings is important for low-level programming. Practicing with both arrays and strings will build a solid foundation and enhance your overall proficiency in C++.
