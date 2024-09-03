@@ -1,6 +1,6 @@
-//Srihari Nair
-//Prn: 23070123131
-//experiment 7: Arrays And Strings 
+//Name: Saniya Chatterjee
+//Prn: 23070123113
+//Class: EnTC B-2
 
 #include <iostream>
 using namespace std;
